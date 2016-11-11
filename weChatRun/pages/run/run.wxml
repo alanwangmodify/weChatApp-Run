@@ -5,7 +5,7 @@
     <button bindtap="openLocation">打开位置</button>
     <button bindtap="starRun">开始跑步</button>
     <button bindtap="stopRun">暂停跑步</button>
-    <text>\n里程数：{{meters}}</text>
+    <text>\n里程数：{{meters}}km</text>
     <text>\n\n时间：{{time}}</text>
 </view>
 
