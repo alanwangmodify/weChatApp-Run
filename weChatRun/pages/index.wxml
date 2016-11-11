@@ -7,7 +7,7 @@
     <view class="header">
         <image class="icon" src="/resources/joyrun.png" mode="aspectFill"/>
         <view class="bigTitle">悦跑圈</view>
-        <view class="desc">Let us run</view>
+        <view class="desc">Let us run - Alan Wang</view>
     </view>
     
     
