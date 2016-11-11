@@ -8,8 +8,8 @@
 ###截图
 ![首页](https://github.com/alanwangmodify/weChatApp-Run/blob/master/pic/home.jpeg)
 
-![跑步页面]https://github.com/alanwangmodify/weChatApp-Run/blob/master/pic/run.jpeg
+![跑步页面](https://github.com/alanwangmodify/weChatApp-Run/blob/master/pic/run.jpeg)
 
-![侧滑返回]https://github.com/alanwangmodify/weChatApp-Run/blob/master/pic/slideback.jpeg
+![侧滑返回](https://github.com/alanwangmodify/weChatApp-Run/blob/master/pic/slideback.jpeg)
 
-![侧滑返回]https://github.com/alanwangmodify/weChatApp-Run/blob/master/pic/slideback1.jpeg
+![侧滑返回](https://github.com/alanwangmodify/weChatApp-Run/blob/master/pic/slideback1.jpeg)
