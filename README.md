@@ -12,4 +12,4 @@
 
 ![侧滑返回](https://github.com/alanwangmodify/weChatApp-Run/blob/master/pic/slideback.jpeg)
 
-![侧滑返回](https://github.com/alanwangmodify/weChatApp-Run/blob/master/pic/slideback1.jpeg)
+![侧滑返回](https://github.com/alanwangmodify/weChatApp-Run/blob/master/pic/slide.jpeg)
